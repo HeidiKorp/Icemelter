@@ -1,0 +1,27 @@
+
+//                if (ball.getBoundsInParent().getMinX() > paddle.getBoundsInParent().getMaxX() - 20
+//                        || ball.getBoundsInParent().getMaxX() < paddle.getBoundsInParent().getMinX() + 20) {
+//
+//                    if (BALL_DIR_X < 0) {
+//                        BALL_DIR_X = -4.8;
+//                    } else if (BALL_DIR_X > 0) {
+//                        BALL_DIR_X = 4.8;
+//                    }
+//                } else if ((ball.getBoundsInParent().getMinX() > paddle.getBoundsInParent().getMaxX() - 40
+//                        && ball.getBoundsInParent().getMaxX() < paddle.getBoundsInParent().getMaxX() - 20)
+//                        || (ball.getBoundsInParent().getMaxX() < paddle.getBoundsInParent().getMinX() + 40
+//                        && ball.getBoundsInParent().getMinX() > paddle.getBoundsInParent().getMinX() + 20)) {
+//
+//                    if (BALL_DIR_X < 0) {
+//                        BALL_DIR_X = -3.0;
+//                    } else if (BALL_DIR_X > 0) {
+//                        BALL_DIR_X = 3.0;
+//                    }
+//                } else {
+//                    if (BALL_DIR_X < 0) {
+//                        BALL_DIR_X = -1.0;
+//                    } else if (BALL_DIR_X > 0) {
+//                        BALL_DIR_X = 1.0;
+//                    }
+//
+//                }

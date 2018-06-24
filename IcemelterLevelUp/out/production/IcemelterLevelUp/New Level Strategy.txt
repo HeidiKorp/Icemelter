@@ -1,0 +1,4 @@
+ - Ice blocks that have to be melted multiple times to disappear.
+ - Stones that will never melt.
+ - Ice blocks that reappear after some time.
+ 

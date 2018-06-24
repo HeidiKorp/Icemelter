@@ -1,0 +1,16 @@
+Story
+
+One day in the winter, when You went skiing in the mountains, you suddenly
+fell into a deep ice cave. When You woke up, you noticed that there was
+only ice above you and no other way out. Luckily, You have a magical
+fireball that could melt all the ice and break You free! But be aware -
+if you drop the ball, the ice below You will melt and You will drop even
+further until the ball won't reach the top and You will be imprisoned
+in the cave forever.
+
+Instructions
+
+Use Your mouse to move the paddle and melt all ice blocks. You have
+three lives. If you drop the ball, you will lose one life. Melting
+one block equals 5 points. After losing the game, press
+ENTER to play again. To pause the game, press SPACE.
