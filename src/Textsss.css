@@ -1,0 +1,36 @@
+
+.label {
+    -fx-font-family: "Kristen ITC";
+    -fx-font-size: 24px;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+}
+.label-title{
+    -fx-text-fill: white;
+    -fx-font-size: 100px;
+}
+.label-ready {
+    -fx-text-fill: white;
+    font-size: 20px;
+}
+.label-error {
+    -fx-font-weight: bold;
+    -fx-font-size: 25px;
+}
+
+.label-links {
+    -fx-font-size: 15px;
+}
+
+.label-instruction {
+
+    line-height: 20px;
+    -fx-font-size: 16px;
+    -fx-wrap-text: true;
+    -fx-padding: 1.5cm;
+}
+
+.label-subtitle {
+    -fx-font-size: 30;
+
+}
